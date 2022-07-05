@@ -1,0 +1,4 @@
+repository "Boostometry@oscoson@cloud"
+  path "/"
+    br "/main"
+    co "/main"
